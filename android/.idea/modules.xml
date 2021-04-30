@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoIdentReactSample.iml" filepath="$PROJECT_DIR$/.idea/modules/autoIdentReactSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/autoIdentReactSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/autoIdentReactSample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2117873816/autoIdentReactSample.react-native-idnow-library.iml" filepath="$PROJECT_DIR$/.idea/modules/-2117873816/autoIdentReactSample.react-native-idnow-library.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alexandrumindricel/Desktop/work/release/autoident-react-bridge/beta/autoIdentReactSample/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de-rDE/values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "/Users/alexandrumindricel/.gradle/caches/transforms-2/files-2.1/c6cd51f5c3c7a5b6132f5df7f3e89316/idnow-platform-4.7.0/res/values-de-rDE/values-de-rDE.xml",
+                    "from": {
+                        "startLines": "2,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,636,762,963,1316,1356,1407,1462,1533,1610,1674,1720,1809,1906,2008,2093,2165,2250,2335,2412,2514,2626,2715,2819,2928,2997,3069,3138,3213,3297,3436",
+                        "endLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51",
+                        "endColumns": "19,125,200,352,39,50,54,70,76,63,45,88,96,101,84,71,84,84,76,101,111,88,103,108,68,71,68,74,83,138,66",
+                        "endOffsets": "631,757,958,1311,1351,1402,1457,1528,1605,1669,1715,1804,1901,2003,2088,2160,2245,2330,2407,2509,2621,2710,2814,2923,2992,3064,3133,3208,3292,3431,3498"
+                    }
+                }
+            ]
+        }
+    ]
+}

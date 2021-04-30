@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="idnow_samsung_s5_model">
+        <item>SM-G800</item>
+        <item>SM-G870A</item>
+        <item>SM-G900A</item>
+        <item>SM-G900F</item>
+        <item>SM-G900FD</item>
+        <item>SM-G900H</item>
+        <item>SM-G900P</item>
+        <item>SM-G900T</item>
+        <item>SM-G900V</item>
+        <item>SM-G900W8</item>
+        <item>SM-G900S</item>
+        <item>SM-G906S</item>
+        <item>SM-G900K</item>
+        <item>SM-G906K</item>
+        <item>SM-G900L</item>
+        <item>SM-G906L</item>
+        <item>SM-G903F</item>
+
+    </string-array>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navegar para casa"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Escolher uma aplicação"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"eliminar"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Função +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Partilhar com a aplicação <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Reduzir"</string>
+    <string name="idnow_crash_retry">Encontrámos um erro inesperado. Por favor, reinicie a aplicação.</string>
+    <string name="idnow_message_start_ident_failed">A ID-Ident que inseriu está incorreta. Verifique a sua ID-Ident antes de tentar novamente.</string>
+    <string name="idnow_network_connection">Não nos é possível estabelecer uma ligação. Por favor, tente desligar e voltar a ligar a sua ligação à Internet e tente novamente.\n\nPode tentar desligar e voltar a ligar o seu WiFi ou alternar o seu telefone por alguns instantes para o modo AirPlace e desalternar novamente.</string>
+    <string name="idnow_ok">Ok</string>
+    <string name="idnow_restart">Reiniciar</string>
+    <string name="idnow_sorry">Desculpe</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="zoom_accessibility_cancel_button">Cancelar</string>
+    <string name="zoom_accessibility_torch_button">Alternar a luz</string>
+    <string name="zoom_action_im_ready">Estou pronto/a</string>
+    <string name="zoom_action_ok">OK</string>
+    <string name="zoom_feedback_center_face">Centre o seu rosto</string>
+    <string name="zoom_feedback_face_not_found">Enquadre o seu rosto</string>
+    <string name="zoom_feedback_face_not_looking_straight_ahead">Por favor, olhe em frente</string>
+    <string name="zoom_feedback_face_not_upright">Por favor, mantenha a cabeça direita</string>
+    <string name="zoom_feedback_hold_steady">Por favor, mantenha-se firme</string>
+    <string name="zoom_feedback_move_phone_away">Por favor, afaste-se</string>
+    <string name="zoom_feedback_move_phone_closer">Por favor, aproxime-se</string>
+    <string name="zoom_feedback_move_phone_even_closer">Aproxime-se mais, por favor!</string>
+    <string name="zoom_feedback_move_phone_to_eye_level">Eleve a câmara até ao nível dos olhos</string>
+    <string name="zoom_feedback_use_even_lighting">O seu rosto precisa de uma iluminação mais uniforme</string>
+    <string name="zoom_instructions_header_ready">Prepare-se para\na sua selfie em vídeo</string>
+    <string name="zoom_instructions_message_ready">Por favor, posicione o seu rosto na oval</string>
+    <string name="zoom_result_facemap_upload_message">A carregar\nencriptado\n3D FaceMap</string>
+    <string name="zoom_result_success_message">Conseguiu!</string>
+    <string name="zoom_retry_header">Vamos tentar de novo...</string>
+    <string name="zoom_retry_ideal_image_label">Pose ideal</string>
+    <string name="zoom_retry_instruction_message_1">Por favor, não sorria</string>
+    <string name="zoom_retry_instruction_message_2">Não utilize brilho</string>
+    <string name="zoom_retry_subheader_message">Mas primeiro veja a sua foto e corrija o seu ambiente.</string>
+    <string name="zoom_retry_your_image_label">A sua selfie</string>
+</resources>

@@ -1,0 +1,6 @@
+module Pods_autoIdentReactSample {
+  umbrella header "Pods-autoIdentReactSample-umbrella.h"
+
+  export *
+  module * { export * }
+}

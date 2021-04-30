@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alexandrumindricel/Desktop/work/release/autoident-react-bridge/beta/autoIdentReactSample/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/alexandrumindricel/.gradle/caches/transforms-2/files-2.1/c6cd51f5c3c7a5b6132f5df7f3e89316/idnow-platform-4.7.0/res/values-xxxhdpi-v4/values-xxxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,172,243",
+                        "endColumns": "56,59,70,57",
+                        "endOffsets": "107,167,238,296"
+                    }
+                }
+            ]
+        }
+    ]
+}

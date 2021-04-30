@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="idnow_analyzing_screen_message_margin_top">70dp</dimen>
+    <dimen name="idnow_analyzing_screen_spinner_height">100dp</dimen>
+    <dimen name="idnow_analyzing_screen_spinner_margin_top">55dp</dimen>
+    <dimen name="idnow_face_oval_height">324dp</dimen>
+    <dimen name="idnow_face_oval_width">269dp</dimen>
+    <dimen name="idnow_instruction_padding">25dp</dimen>
+    <dimen name="idnow_intro_message_text_size">16dp</dimen>
+    <dimen name="idnow_ln_instruction_message">18dp</dimen>
+    <dimen name="idnow_ln_instruction_message_margin_top">15dp</dimen>
+    <dimen name="idnow_ln_instruction_title">22dp</dimen>
+    <dimen name="idnow_manual_capture_message_text_size">19dp</dimen>
+    <item format="float" name="idnow_manual_classification_list_country_height_percent" type="dimen">0.4</item>
+    <item format="float" name="idnow_manual_classification_list_id_type_height_percent" type="dimen">0.3</item>
+    <dimen name="idnow_manual_classification_margin_top">20dp</dimen>
+    <dimen name="idnow_privacy_item_margin_top">70dp</dimen>
+    <dimen name="idnow_ts_text_instruction">16dp</dimen>
+</resources>

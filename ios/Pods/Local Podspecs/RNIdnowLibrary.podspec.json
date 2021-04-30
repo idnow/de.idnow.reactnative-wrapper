@@ -1,0 +1,25 @@
+{
+  "name": "RNIdnowLibrary",
+  "version": "1.0.0",
+  "summary": "RNIdnowLibrary",
+  "description": "RNIdnowLibrary",
+  "homepage": "www.sample.com",
+  "license": "MIT",
+  "authors": {
+    "author": "author@domain.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/author/RNIdnowLibrary.git",
+    "tag": "master"
+  },
+  "source_files": "RNIdnowLibrary/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

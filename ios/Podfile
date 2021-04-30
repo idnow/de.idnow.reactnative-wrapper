@@ -1,0 +1,26 @@
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+platform :ios, '10.0'
+
+target 'autoIdentReactSample' do
+  config = use_native_modules!
+
+  use_react_native!(:path => config["reactNativePath"])
+
+  pod 'RNIdnowLibrary', :path => '../node_modules/react-native-idnow-library/ios'
+
+  target 'autoIdentReactSampleTests' do
+    inherit! :complete
+    # Pods for testing
+  end
+end
+
+target 'autoIdentReactSample-tvOS' do
+  # Pods for autoIdentReactSample-tvOS
+
+  target 'autoIdentReactSample-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+end

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="idnow_instruction_padding">40dp</dimen>
+    <dimen name="idnow_ln_instruction_message">20dp</dimen>
+    <dimen name="idnow_ln_instruction_message_margin_top">25dp</dimen>
+    <dimen name="idnow_ln_instruction_title">24dp</dimen>
+</resources>

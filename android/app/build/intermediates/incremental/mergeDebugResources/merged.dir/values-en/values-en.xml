@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zoom_accessibility_cancel_button">Cancel</string>
+    <string name="zoom_accessibility_torch_button">Toggle Light</string>
+    <string name="zoom_action_im_ready">I\'m ready</string>
+    <string name="zoom_action_ok">OK</string>
+    <string name="zoom_feedback_center_face">Center your face</string>
+    <string name="zoom_feedback_face_not_found">Frame your face</string>
+    <string name="zoom_feedback_face_not_looking_straight_ahead">Look straight ahead</string>
+    <string name="zoom_feedback_face_not_upright">Hold your head straight</string>
+    <string name="zoom_feedback_hold_steady">Please hold steady</string>
+    <string name="zoom_feedback_move_phone_away">Please move away</string>
+    <string name="zoom_feedback_move_phone_closer">Please move closer</string>
+    <string name="zoom_feedback_move_phone_even_closer">Even closer</string>
+    <string name="zoom_feedback_move_phone_to_eye_level">Raise the camera up to eye level</string>
+    <string name="zoom_feedback_use_even_lighting">Light face more evenly</string>
+    <string name="zoom_instructions_header_ready">Get ready for\nyour Video Selfie</string>
+    <string name="zoom_instructions_message_ready">Please position your face in the oval</string>
+    <string name="zoom_result_facemap_upload_message">Uploading\nencrypted\n3D FaceMap</string>
+    <string name="zoom_result_success_message">Success!</string>
+    <string name="zoom_retry_header">Let\'s try that again...</string>
+    <string name="zoom_retry_ideal_image_label">Ideal Pose</string>
+    <string name="zoom_retry_instruction_message_1">Neutral expression, no smiling</string>
+    <string name="zoom_retry_instruction_message_2">No glare or extreme lighting</string>
+    <string name="zoom_retry_subheader_message">But first, please take a look at your photo and correct your environment.</string>
+    <string name="zoom_retry_your_image_label">Your Selfie</string>
+</resources>

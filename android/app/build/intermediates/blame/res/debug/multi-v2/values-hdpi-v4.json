@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/alexandrumindricel/Desktop/work/release/autoident-react-bridge/beta/autoIdentReactSample/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/alexandrumindricel/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "1169",
+                        "endLines": "22",
+                        "endColumns": "13",
+                        "endOffsets": "1441"
+                    }
+                },
+                {
+                    "source": "/Users/alexandrumindricel/.gradle/caches/transforms-2/files-2.1/c6cd51f5c3c7a5b6132f5df7f3e89316/idnow-platform-4.7.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,128,197,270,325,379,436,497,557,628,686,756,869,981,1051,1112",
+                        "endColumns": "72,68,72,54,53,56,60,59,70,57,69,112,111,69,60,56",
+                        "endOffsets": "123,192,265,320,374,431,492,552,623,681,751,864,976,1046,1107,1164"
+                    }
+                }
+            ]
+        }
+    ]
+}

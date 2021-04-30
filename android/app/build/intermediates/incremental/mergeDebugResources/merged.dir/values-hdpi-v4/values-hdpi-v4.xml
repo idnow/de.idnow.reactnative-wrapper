@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="idnow_analyzing_screen_message_margin_top">60dp</dimen>
+    <dimen name="idnow_analyzing_screen_spinner_height">90dp</dimen>
+    <dimen name="idnow_analyzing_screen_spinner_margin_top">45dp</dimen>
+    <dimen name="idnow_face_oval_height">277dp</dimen>
+    <dimen name="idnow_face_oval_width">230dp</dimen>
+    <dimen name="idnow_instruction_padding">15dp</dimen>
+    <dimen name="idnow_intro_message_text_size">16dp</dimen>
+    <dimen name="idnow_ln_instruction_message">16dp</dimen>
+    <dimen name="idnow_ln_instruction_message_margin_top">10dp</dimen>
+    <dimen name="idnow_ln_instruction_title">20dp</dimen>
+    <dimen name="idnow_manual_capture_message_text_size">18dp</dimen>
+    <item format="float" name="idnow_manual_classification_list_country_height_percent" type="dimen">0.35</item>
+    <item format="float" name="idnow_manual_classification_list_id_type_height_percent" type="dimen">0.3</item>
+    <dimen name="idnow_manual_classification_margin_top">15dp</dimen>
+    <dimen name="idnow_privacy_item_margin_top">30dp</dimen>
+    <dimen name="idnow_ts_text_instruction">14dp</dimen>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+          <item name="barLength">18.66dp</item>
+          <item name="gapBetweenBars">3.33dp</item>
+          <item name="drawableSize">24dp</item>
+     </style>
+</resources>

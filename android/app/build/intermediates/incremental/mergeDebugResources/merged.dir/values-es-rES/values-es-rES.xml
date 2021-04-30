@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="idnow_samsung_s5_model">
+        <item>SM-G800</item>
+        <item>SM-G870A</item>
+        <item>SM-G900A</item>
+        <item>SM-G900F</item>
+        <item>SM-G900FD</item>
+        <item>SM-G900H</item>
+        <item>SM-G900P</item>
+        <item>SM-G900T</item>
+        <item>SM-G900V</item>
+        <item>SM-G900W8</item>
+        <item>SM-G900S</item>
+        <item>SM-G906S</item>
+        <item>SM-G900K</item>
+        <item>SM-G906K</item>
+        <item>SM-G900L</item>
+        <item>SM-G906L</item>
+        <item>SM-G903F</item>
+
+    </string-array>
+    <string name="idnow_crash_retry">Nos hemos encontrado con un error inesperado. Por favor, reinicie la aplicación.</string>
+    <string name="idnow_message_start_ident_failed">La Ident-ID que ha introducido es incorrecta. Verifique su Ident-ID antes de reintentar.</string>
+    <string name="idnow_network_connection">No hemos podido establecer la conexión. Intente desconectarse y volverse a conectar a Internet e inténtelo de nuevo.\n\nPuede intentar desactivar y volver a activar su WiFi o poner un momento su teléfono en modo avión.</string>
+    <string name="idnow_ok">Ok</string>
+    <string name="idnow_restart">Reiniciar</string>
+    <string name="idnow_sorry">Lo siento</string>
+    <string name="zoom_accessibility_cancel_button">Cancelar</string>
+    <string name="zoom_accessibility_torch_button">Cambiar iluminación</string>
+    <string name="zoom_action_im_ready">Estoy listo</string>
+    <string name="zoom_action_ok">Ok</string>
+    <string name="zoom_feedback_center_face">Coloque la cara en el centro</string>
+    <string name="zoom_feedback_face_not_found">Coloque la cara dentro del marco</string>
+    <string name="zoom_feedback_face_not_looking_straight_ahead">Mire hacia delante</string>
+    <string name="zoom_feedback_face_not_upright">Mantenga la cabeza erguida</string>
+    <string name="zoom_feedback_hold_steady">Quédese quieto</string>
+    <string name="zoom_feedback_move_phone_away">Aléjese</string>
+    <string name="zoom_feedback_move_phone_closer">Acérquese</string>
+    <string name="zoom_feedback_move_phone_even_closer">Acérquese un poco más</string>
+    <string name="zoom_feedback_move_phone_to_eye_level">Coloque la cámara al nivel de los ojos</string>
+    <string name="zoom_feedback_use_even_lighting">Necesita más iluminación en la cara</string>
+    <string name="zoom_instructions_header_ready">Prepárese para\nhacer un selfi mediante vídeo</string>
+    <string name="zoom_instructions_message_ready">Por favor, posicione su cara en el óvalo</string>
+    <string name="zoom_result_facemap_upload_message">Subida\nencriptada\n3D FaceMap</string>
+    <string name="zoom_result_success_message">¡Listo!</string>
+    <string name="zoom_retry_header">Intentémoslo otra vez...</string>
+    <string name="zoom_retry_ideal_image_label">Pose ideal</string>
+    <string name="zoom_retry_instruction_message_1">Por favor, No sonría</string>
+    <string name="zoom_retry_instruction_message_2">Elimine brillos</string>
+    <string name="zoom_retry_subheader_message">Pero antes mire la foto y corrija los errores.</string>
+    <string name="zoom_retry_your_image_label">Su selfi</string>
+</resources>

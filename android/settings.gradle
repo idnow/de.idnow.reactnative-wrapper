@@ -1,0 +1,5 @@
+rootProject.name = 'autoIdentReactSample'
+include ':react-native-idnow-library'
+project(':react-native-idnow-library').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-idnow-library/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

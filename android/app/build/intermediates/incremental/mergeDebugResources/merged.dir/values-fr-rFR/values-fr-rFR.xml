@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="idnow_samsung_s5_model">
+        <item>SM-G800</item>
+        <item>SM-G870A</item>
+        <item>SM-G900A</item>
+        <item>SM-G900F</item>
+        <item>SM-G900FD</item>
+        <item>SM-G900H</item>
+        <item>SM-G900P</item>
+        <item>SM-G900T</item>
+        <item>SM-G900V</item>
+        <item>SM-G900W8</item>
+        <item>SM-G900S</item>
+        <item>SM-G906S</item>
+        <item>SM-G900K</item>
+        <item>SM-G906K</item>
+        <item>SM-G900L</item>
+        <item>SM-G906L</item>
+        <item>SM-G903F</item>
+
+    </string-array>
+    <string name="idnow_crash_retry">Nous avons rencontré une erreur inattendue. Veuillez redémarrer l\'application.</string>
+    <string name="idnow_message_start_ident_failed">"L\'identifiant renseigné est incorrect. Veuillez vérifier votre identifiant avant de réessayer."</string>
+    <string name="idnow_network_connection">"Impossible d\'établir une connexion. Veuillez essayer de vous déconnecter et de vous reconnecter à votre connexion Internet puis réessayer.\n\nVous pouvez essayer d\'éteindre et de rallumer votre Wi-Fi ou de mettre brièvement votre téléphone en mode Avion et l\'enlever ensuite."</string>
+    <string name="idnow_ok">Ok</string>
+    <string name="idnow_restart">Redémarrer</string>
+    <string name="idnow_sorry">Désolé</string>
+    <string name="zoom_accessibility_cancel_button">Annuler</string>
+    <string name="zoom_accessibility_torch_button">Régler la lumière</string>
+    <string name="zoom_action_im_ready">Je suis prêt(e)</string>
+    <string name="zoom_action_ok">OK</string>
+    <string name="zoom_feedback_center_face">Centrez votre visage</string>
+    <string name="zoom_feedback_face_not_found">Placez votre visage dans le cadre</string>
+    <string name="zoom_feedback_face_not_looking_straight_ahead">Veuillez regarder droit devant vous</string>
+    <string name="zoom_feedback_face_not_upright">Veuillez garder votre tête droite</string>
+    <string name="zoom_feedback_hold_steady">Veuillez maintenir la positio</string>
+    <string name="zoom_feedback_move_phone_away">Veuillez vous éloigner</string>
+    <string name="zoom_feedback_move_phone_closer">Veuillez vous rapprocher</string>
+    <string name="zoom_feedback_move_phone_even_closer">Encore plus près, s\'il vous plaît !</string>
+    <string name="zoom_feedback_move_phone_to_eye_level">Ajustez la caméra à la hauteur des yeux</string>
+    <string name="zoom_feedback_use_even_lighting">Votre visage a besoin d\'encore plus d\'éclairage</string>
+    <string name="zoom_instructions_header_ready">Préparez-vous pour\nvotre selfie vidéo</string>
+    <string name="zoom_instructions_message_ready">Veuillez positionner votre visage dans l\'ovale</string>
+    <string name="zoom_result_facemap_upload_message">Téléchargement\nde la carte faciale\ncryptée en 3D</string>
+    <string name="zoom_result_success_message">Félicitations !</string>
+    <string name="zoom_retry_header">Réessayons...</string>
+    <string name="zoom_retry_ideal_image_label">Pose idéale</string>
+    <string name="zoom_retry_instruction_message_1">Pas de sourire</string>
+    <string name="zoom_retry_instruction_message_2">Aucun éblouissement</string>
+    <string name="zoom_retry_subheader_message">Mais d\'abord, veuillez regarder votre photo et corrigez votre environnement.</string>
+    <string name="zoom_retry_your_image_label">Votre Selfie</string>
+</resources>
