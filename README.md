@@ -7,8 +7,8 @@ This codebase was created to demonstrate the capability of the IDnow AutoIdent S
 ## Get started
 
 Navigate to the root folder of the project via terminal and run : 
-* for android: react-native run-android —device 
-* for iOS: react-native run-ios —device
+* for android: react-native run-android --device 
+* for iOS: react-native run-ios --device
 
 ## How it works
 
