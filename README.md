@@ -1,3 +1,8 @@
+## Our React Native distribution has now moved to NPM
+Please refer to the npm link below for the latest versions. Thank you.
+[IDnow AutoIdent React Native Repo - NPM](https://www.npmjs.com/package/react-native-idnow-library)
+
+------------------------------------------------------------------------------------
 
 ## Introduction
 
